@@ -1,0 +1,5 @@
+languageCode = "en-us"
+title = "FEWD Course Material"
+baseurl= "https://fewd20170128.github.io"
+theme = "hugo-theme-learn"
+homepage = "https://fewd20170128.github.io/00-dev-tools-github"
