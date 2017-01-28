@@ -2,7 +2,7 @@
 title = "Git Tutorial"
 date = "2017-01-22T18:05:18-05:00"
 toc = true
-prev = "/00-dev-tools-github/github-overview"
+prev = "/00-dev-tools-github/git-overview"
 weight = 5
 
 +++

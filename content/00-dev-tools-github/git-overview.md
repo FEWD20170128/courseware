@@ -107,9 +107,7 @@ weight = 4
 
 ## Pull
 
-- xxx
-
-- xxx
+- pulls code from a remote repository and merges it with code in your local repository (on your computer)
 
 
 &nbsp;
@@ -125,7 +123,11 @@ weight = 4
 
 ## Clone
 
-- xxx
+- Copies a remote repository down to your computer and creates a link between the two
 
-- xxx
+
+
+{{% notice tip %}}
+  Great resource for all things git can be found [here](https://git-scm.com/book/en/v2)
+{{% /notice %}}
 
