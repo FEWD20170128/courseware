@@ -8,7 +8,7 @@ weight = 6
 
 +++
 
-## ``<html>``, body, head, title
+## ``<html>``, ``<body>``, ``<head>``, ``<title>``
 
  - ``<html>``
 
@@ -118,7 +118,7 @@ weight = 6
 
 ```
 
-![original left fit](assets/paragraphs_example_browser.png)
+![original left fit](/images/01/paragraphs_example_browser.png)
 
 
 &nbsp;

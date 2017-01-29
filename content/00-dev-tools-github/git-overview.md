@@ -37,10 +37,13 @@ weight = 4
 ## Vocabulary
 
 - Repository
-- Branch
-- Fork
 - Commit
+- Branch
+- Merge
 - Push
+- Pull
+- Fork
+- Clone
 - Pull Request
 
 &nbsp;
@@ -84,17 +87,6 @@ weight = 4
 
 - This often happens as a Pull Request (which can be thought of as a request to merge)
 
-
-&nbsp;
-
-## Commit
-
-- A "revision", is an individual change to a file (or set of files)
-
-- Git's version of "saving"
-
-- Commits usually contain a commit message which is a brief description of what changes were made
-
 &nbsp;
 
 ## Push
@@ -107,7 +99,7 @@ weight = 4
 
 ## Pull
 
-- pulls code from a remote repository and merges it with code in your local repository (on your computer)
+- Pulls code from a remote repository and merges it with code in your local repository (on your computer)
 
 
 &nbsp;
@@ -124,6 +116,15 @@ weight = 4
 ## Clone
 
 - Copies a remote repository down to your computer and creates a link between the two
+
+
+&nbsp;
+
+## Pull Request
+
+- Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. 
+- Pull requests each have their own discussion forum. See Using Pull Requests.
+- Used to perform "Code Reviews" of other developers' work
 
 
 
